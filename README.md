@@ -1,6 +1,7 @@
 # DeepLearning
 
 Assign2:
+
 Three  classifiers  for  MNIST  dataset  using  three  different  models:soft-max  regression,  MLP,  and  CNN are developed.
 
 Assign3:
